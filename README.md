@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MTGJoeD
 - 👀 I’m interested in gamedev, specifically Godot right now
 - 🌱 I’m currently learning GDscript and the Godot engine
-- 📫 How to reach me: youtube.com/mtgjoed twitter.com/mtgjoed 
+- 📫 How to reach me: youtube.com/mtgjoed 
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I lived in Mr. Rogers' neighborhood 
 
